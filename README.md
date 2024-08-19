@@ -60,7 +60,7 @@ Vamos fazer upload de arquivo em csv para Databricks File System (DBFS), convert
 
 :pushpin:Notebook
 
-:pushpin:How to do​
+:pushpin:[How to do](https://github.com/RegiMaria/SPARK_API_operacoes_basicas/blob/main/How_to_do.md)​
 
 
 
