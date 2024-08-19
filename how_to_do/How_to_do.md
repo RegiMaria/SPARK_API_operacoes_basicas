@@ -381,4 +381,4 @@ Existem ainda muitos outros métodos e funções para tratar dados com pyspark e
 
 ------------------------------
 
-:pushpin: Notebook dessa tarefa aqui.
+:pushpin: [Notebook dessa tarefa aqui](https://github.com/RegiMaria/SPARK_API_operacoes_basicas/blob/main/notebook/delta_clientes.ipynb).
