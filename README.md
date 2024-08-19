@@ -58,7 +58,7 @@ Vamos fazer upload de arquivo em csv para Databricks File System (DBFS), convert
 
 :heavy_check_mark:**​ARQUIVOS DA TAREFA:**
 
-:pushpin:Notebook
+:pushpin:[Notebook](https://github.com/RegiMaria/SPARK_API_operacoes_basicas/blob/main/notebook/delta_clientes.ipynb)
 
 :pushpin:[How to do](https://github.com/RegiMaria/SPARK_API_operacoes_basicas/blob/main/How_to_do.md)​
 
