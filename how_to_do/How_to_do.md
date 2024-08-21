@@ -16,7 +16,7 @@ Relembrando o pipeline:
 
 -------------------------------------------------
 
-- **Medallion architecture**: Para essa tarefa, escolhemos trabalhar com a Arquitetura Medalhão. O objetivo desse designe é melhorar a estrutura e qualidade dos dados de forma progressiva à medida que eles fluem por cada camada da arquitetura.
+- **Medallion architecture**: Para essa tarefa, escolhemos trabalhar com a [Arquitetura Medalhão](https://www.databricks.com/glossary/medallion-architecture). O objetivo desse designe é melhorar a estrutura e qualidade dos dados de forma progressiva à medida que eles fluem por cada camada da arquitetura.
 
   :white_check_mark:**BRONZE LAYER**: Na primeira camada os dados são carregados "como estão".
 
