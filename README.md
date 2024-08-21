@@ -83,4 +83,5 @@ Vamos fazer upload de arquivo em csv para Databricks File System (DBFS), convert
 :pushpin: [Spark_Documentation](https://spark.apache.org/docs/3.1.1/api/python/reference/pyspark.sql.html#dataframe-apis)
 
 :pushpin:[Como funciona o sistema de arquivos do databricks](https://docs.databricks.com/pt/dbfs/index.html)
+
 📌 [Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture)
